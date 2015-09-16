@@ -1,14 +1,20 @@
 org.grobid.core
+org.grobid.core.analyzers
 org.grobid.core.annotations
 org.grobid.core.data
+org.grobid.core.data.util
 org.grobid.core.document
 org.grobid.core.engines
+org.grobid.core.engines.citations
+org.grobid.core.engines.counters
 org.grobid.core.engines.ebook
 org.grobid.core.engines.entities
 org.grobid.core.engines.patent
+org.grobid.core.engines.tagging
 org.grobid.core.exceptions
 org.grobid.core.factory
 org.grobid.core.features
+org.grobid.core.jni
 org.grobid.core.lang
 org.grobid.core.lang.impl
 org.grobid.core.layout
@@ -19,3 +25,5 @@ org.grobid.core.mock
 org.grobid.core.process
 org.grobid.core.sax
 org.grobid.core.utilities
+org.grobid.core.utilities.counters
+org.grobid.core.utilities.counters.impl

@@ -1,3 +1,4 @@
 org.grobid.trainer
 org.grobid.trainer.evaluation
+org.grobid.trainer.evaluation.utilities
 org.grobid.trainer.sax
