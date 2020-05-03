@@ -1,6 +1,0 @@
-org.grobid.service
-org.grobid.service.exceptions
-org.grobid.service.main
-org.grobid.service.parser
-org.grobid.service.process
-org.grobid.service.util
